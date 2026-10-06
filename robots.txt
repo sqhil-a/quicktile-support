@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://sqhil-a.github.io/quicktile-support/sitemap.xml
